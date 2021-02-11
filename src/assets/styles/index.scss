@@ -1,0 +1,12 @@
+@import "~normalize.css";
+@import "~animate.css";
+@import "~slick-carousel/slick/slick.css";
+@import "global";
+@import "vars";
+
+@import "sections/header.scss";
+@import "sections/surf.scss";
+@import "sections/holder.scss";
+@import "sections/shop.scss";
+
+@import "media";
