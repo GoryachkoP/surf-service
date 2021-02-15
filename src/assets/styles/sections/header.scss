@@ -126,6 +126,7 @@
   right: 20px;
   top: 75px;
   background-color: rgba($white, 0.1);
+  cursor: pointer;
   &__inner {
     width: 30px;
   }
@@ -200,7 +201,7 @@
   }
 }
 
-.header__map {
+.slider-item__map {
   position: absolute;
   top: 0;
   right: 0;
